@@ -13,7 +13,7 @@ This project is set up to run automated API tests using Cucumber.js and the Reqr
 1. Clone the repository:
    
    ```sh
-   git clone <repository-url>
+   git clone https://github.com/ScriptLanes/cucumber-api-testing.git
    cd cucumber-api-testing
    ```
 
